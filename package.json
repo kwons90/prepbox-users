@@ -22,7 +22,6 @@
         "pg": "^8.11.3",
         "qrcode": "^1.5.3",
         "react-cookie": "^6.1.1",
-        "remark-math": "^6.0.0",
         "sequelize": "^6.35.1",
         "slick-carousel": "^1.8.1",
         "stripe": "^14.8.0",
